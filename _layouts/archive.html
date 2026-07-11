@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="archive">
+  <h1 class="post-title">
+    {% if page.type == 'tag' %}Tagged &ldquo;{{ page.title }}&rdquo;
+    {% elsif page.type == 'category' %}Category: {{ page.title }}
+    {% else %}{{ page.title }}{% endif %}
+  </h1>
+  <p class="post-meta">{{ page.posts | size }} post{% if page.posts.size != 1 %}s{% endif %}</p>
+
+  <ul class="post-list">
+    {% for post in page.posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/soberboots/' | relative_url }}">&larr; All posts</a></p>
+</article>
