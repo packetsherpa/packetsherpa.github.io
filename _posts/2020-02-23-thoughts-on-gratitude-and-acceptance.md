@@ -2,6 +2,7 @@
 layout: post
 title: "Thoughts on Gratitude and Acceptance"
 date: 2020-02-23 17:38:51
+image: /soberboots/assets/uploads/2020/02/img_2348.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "emotional sobriety", "gratitude", "recovery", "sober thoughts", "sobriety"]
 ---

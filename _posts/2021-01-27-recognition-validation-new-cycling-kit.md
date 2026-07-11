@@ -2,6 +2,7 @@
 layout: post
 title: "Recognition, Validation, & New Cycling Kit"
 date: 2021-01-27 18:58:48
+image: /soberboots/assets/uploads/2021/01/img_1434.jpg
 categories: ["soberlife"]
 tags: ["gratitude"]
 ---

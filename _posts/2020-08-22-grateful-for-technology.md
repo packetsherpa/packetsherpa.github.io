@@ -2,6 +2,7 @@
 layout: post
 title: "Grateful for Technology"
 date: 2020-08-22 20:11:10
+image: /soberboots/assets/uploads/2020/08/img_0012.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "addiction", "alcoholics anonymous", "alcoholism", "connections", "emotional sobriety", "gratitude", "honesty", "recovery", "sober life", "sobriety", "willingness"]
 ---

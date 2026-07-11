@@ -2,6 +2,7 @@
 layout: post
 title: "Birdsong, Vitamin D, Engaging Work"
 date: 2021-01-14 13:54:24
+image: /soberboots/assets/uploads/2021/01/img_1373.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "gratitude", "recovery", "sobriety"]
 ---

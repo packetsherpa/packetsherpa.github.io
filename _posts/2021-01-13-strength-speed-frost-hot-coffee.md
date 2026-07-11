@@ -2,6 +2,7 @@
 layout: post
 title: "Strength, Speed, Frost, & Hot Coffee"
 date: 2021-01-13 19:03:02
+image: /soberboots/assets/uploads/2021/01/img_3607.jpg
 categories: ["soberlife"]
 tags: ["gratitude"]
 ---

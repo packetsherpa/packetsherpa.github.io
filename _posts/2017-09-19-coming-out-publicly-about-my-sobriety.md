@@ -2,6 +2,7 @@
 layout: post
 title: "Coming Out Publicly About My Sobriety"
 date: 2017-09-19 11:53:33
+image: /soberboots/assets/uploads/2017/09/img_1042.jpg
 categories: ["soberlife"]
 tags: ["addiction", "alcohol use disorder", "alcoholism", "anonymity", "iamnotanonymous", "my story", "recovery", "sobriety", "storytelling", "struggles", "truth", "truthtelling"]
 ---

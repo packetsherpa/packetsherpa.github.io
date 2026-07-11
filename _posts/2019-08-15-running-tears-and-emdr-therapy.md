@@ -2,6 +2,7 @@
 layout: post
 title: "Running, Tears, and EMDR Therapy"
 date: 2019-08-15 22:44:13
+image: /soberboots/assets/uploads/2019/08/img_1377.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "escape", "fatherhood", "feelings", "recovery", "running", "self care", "sobriety", "struggles", "surrender"]
 ---

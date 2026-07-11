@@ -2,6 +2,7 @@
 layout: post
 title: "Why Do I Stay Sober?"
 date: 2017-08-07 08:50:50
+image: /soberboots/assets/uploads/2017/08/p1020137.jpg
 categories: ["soberlife"]
 tags: ["early sobriety", "hope", "MondayBlogs", "recovery", "sobriety"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "October 23, 2017:  Reflections on Thirteen Years of Marriage"
 date: 2017-10-23 10:16:57
+image: /soberboots/assets/uploads/2017/10/dscn0010.jpg
 categories: ["soberlife"]
 tags: ["anniversary", "connection", "connections", "love", "MondayBlogs", "spirituality", "wedding"]
 ---

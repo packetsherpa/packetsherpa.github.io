@@ -2,6 +2,7 @@
 layout: post
 title: "It’s Hard Not To Doomscroll"
 date: 2021-01-12 11:58:01
+image: /soberboots/assets/uploads/2019/11/img_0130.jpg
 categories: ["soberlife"]
 tags: ["faith", "fatherhood", "fear", "feelings", "gratitude", "politics"]
 ---

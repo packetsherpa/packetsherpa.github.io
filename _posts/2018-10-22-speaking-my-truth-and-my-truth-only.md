@@ -2,6 +2,7 @@
 layout: post
 title: "Speaking My Truth, and My Truth Only"
 date: 2018-10-22 11:37:44
+image: /soberboots/assets/uploads/2018/10/img_1227.jpg
 categories: ["soberlife"]
 tags: ["12step", "early sobriety", "MondayBlogs", "narratives", "recovery", "sobriety", "truth"]
 ---

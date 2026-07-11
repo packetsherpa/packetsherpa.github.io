@@ -2,6 +2,7 @@
 layout: post
 title: "Don't Call It a Comeback"
 date: 2021-09-04 11:39:42
+image: /soberboots/assets/uploads/2020/12/img_2775.jpg
 categories: ["soberlife"]
 tags: ["cycling", "fitness", "running", "struggles"]
 ---

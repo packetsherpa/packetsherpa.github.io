@@ -2,6 +2,7 @@
 layout: post
 title: "A Roller Coaster"
 date: 2016-05-17 13:51:05
+image: /soberboots/assets/uploads/2016/05/img_2438.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "migraines", "recovery", "sobriety", "struggles"]
 ---

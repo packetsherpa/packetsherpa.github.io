@@ -2,6 +2,7 @@
 layout: post
 title: "A Tale of Two Weddings"
 date: 2017-07-16 16:34:06
+image: /soberboots/assets/uploads/2017/07/img_1050.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "connections", "early sobriety", "emotional sobriety", "fraternity boys", "friends", "gratitude", "healing", "recovery", "sangha", "sober thoughts", "sobriety", "struggles"]
 ---

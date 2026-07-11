@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Words for You, Words for Us"
+image: /soberboots/assets/uploads/2023/07/img_1290.jpg
 permalink: /soberboots/frank/
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "An Open Letter"
 date: 2016-03-28 14:52:01
+image: /soberboots/assets/uploads/2016/03/img_2207.jpg
 categories: ["soberlife"]
 tags: ["recovery", "sobriety", "xa"]
 ---

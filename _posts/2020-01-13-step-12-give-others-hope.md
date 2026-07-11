@@ -2,6 +2,7 @@
 layout: post
 title: "Step 12: Give Others Hope"
 date: 2020-01-13 09:43:33
+image: /soberboots/assets/uploads/2020/01/img_1043-e1578934761705.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "acceptance", "addiction", "alcoholics anonymous", "alcoholism", "change", "faith", "freedom", "God", "God of My Understanding", "hope", "MondayBlogs", "recovery", "sober life", "sobriety", "spirituality", "steps"]
 ---

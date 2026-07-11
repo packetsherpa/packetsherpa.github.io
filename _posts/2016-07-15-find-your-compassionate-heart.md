@@ -2,6 +2,7 @@
 layout: post
 title: "Find your compassionate heart"
 date: 2016-07-15 07:34:53
+image: /soberboots/assets/uploads/2016/07/p1010144.jpg
 categories: ["soberlife"]
 tags: ["compassion", "hope", "recovery", "sober thoughts", "sobriety", "struggles"]
 ---

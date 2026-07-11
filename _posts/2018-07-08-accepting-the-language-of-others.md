@@ -2,6 +2,7 @@
 layout: post
 title: "Accepting the Language of Others"
 date: 2018-07-08 08:32:09
+image: /soberboots/assets/uploads/2018/07/img_0757.jpg
 categories: ["soberlife"]
 tags: ["12step", "acceptance", "emotional sobriety", "God", "God of My Understanding", "recovery", "spirituality", "struggles", "xa"]
 ---

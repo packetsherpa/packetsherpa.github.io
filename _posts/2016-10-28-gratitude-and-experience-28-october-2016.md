@@ -2,6 +2,7 @@
 layout: post
 title: "Gratitude and Experience, 28 October 2016"
 date: 2016-10-28 10:35:22
+image: /soberboots/assets/uploads/2016/06/img_2847.jpg
 categories: ["soberlife"]
 tags: ["gratitude", "gratitude and experience", "positive experience", "recovery"]
 ---

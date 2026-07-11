@@ -2,6 +2,7 @@
 layout: post
 title: "Step 6: Willing to Work?"
 date: 2019-12-02 07:28:44
+image: /soberboots/assets/uploads/2019/12/img_6069.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "alcoholics anonymous", "alcoholism", "growth", "healing", "MondayBlogs", "recovery", "sobriety", "struggles", "willingness", "xa"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Camping with the Cub Scouts, Sober"
 date: 2016-11-14 21:40:29
+image: /soberboots/assets/uploads/2016/11/img_3455.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "fatherhood", "recovery", "sobriety"]
 ---

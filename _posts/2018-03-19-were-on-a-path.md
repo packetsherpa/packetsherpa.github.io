@@ -2,6 +2,7 @@
 layout: post
 title: "We’re On a Path"
 date: 2018-03-19 22:58:13
+image: /soberboots/assets/uploads/2018/03/img_2056.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "faith", "fatherhood", "gratitude", "hope", "MondayBlogs", "recovery", "sobriety", "struggles"]
 ---

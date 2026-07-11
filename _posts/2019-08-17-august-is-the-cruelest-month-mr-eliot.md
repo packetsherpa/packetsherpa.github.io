@@ -2,6 +2,7 @@
 layout: post
 title: "August is the Cruelest Month, Mr. Eliot"
 date: 2019-08-17 09:33:24
+image: /soberboots/assets/uploads/2019/08/img_1735.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "addiction", "alcoholism", "booze", "denial", "emotional sobriety", "health", "honesty", "recovery", "sober thoughts", "sobriety", "struggles", "surrender", "xa"]
 ---

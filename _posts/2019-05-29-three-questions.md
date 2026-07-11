@@ -2,6 +2,7 @@
 layout: post
 title: "Three Questions to Determine if You Have a Drinking Problem"
 date: 2019-05-29 14:42:53
+image: /soberboots/assets/uploads/2019/05/img_1224.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "alcoholism", "honesty", "my story", "recovery", "sobriety", "step1", "xa"]
 ---

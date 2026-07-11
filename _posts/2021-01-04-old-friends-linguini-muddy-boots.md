@@ -2,6 +2,7 @@
 layout: post
 title: "Old Friends, Linguini, & Muddy Boots"
 date: 2021-01-04 20:41:50
+image: /soberboots/assets/uploads/2020/12/img_0308.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

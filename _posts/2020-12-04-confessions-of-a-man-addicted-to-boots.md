@@ -2,6 +2,7 @@
 layout: post
 title: "Confessions of a Man Addicted to Boots"
 date: 2020-12-04 20:02:33
+image: /soberboots/assets/uploads/2020/12/img_3281-1.jpg
 categories: ["soberlife"]
 tags: ["boots", "change", "early sobriety", "emotional sobriety", "growth", "recovery", "sober thoughts", "sobriety", "storytelling"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "There’s Only One Way to Silence the Echo Chamber"
 date: 2016-11-12 11:20:31
+image: /soberboots/assets/uploads/2016/02/cropped-img_1968.jpg
 categories: ["soberlife"]
 tags: ["echo chamber", "emotional sobriety", "Facebook", "recovery", "self care", "sobriety", "social media", "technology"]
 ---

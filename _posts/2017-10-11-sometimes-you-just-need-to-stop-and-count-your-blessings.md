@@ -2,6 +2,7 @@
 layout: post
 title: "Sometimes, You Just Need to Stop and Count Your Blessings"
 date: 2017-10-11 15:14:11
+image: /soberboots/assets/uploads/2016/02/img_1956.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "gratitude", "health", "recovery", "sobriety"]
 ---

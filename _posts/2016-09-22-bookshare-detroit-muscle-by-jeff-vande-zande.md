@@ -2,6 +2,7 @@
 layout: post
 title: "Bookshare:  Detroit Muscle, by Jeff Vande Zande"
 date: 2016-09-22 14:30:22
+image: /soberboots/assets/uploads/2016/09/51j0maeapgl.jpg
 categories: ["soberlife"]
 tags: ["addiciton", "alcoholism", "book review", "early sobriety", "oxycodone", "oxycontin", "recovery", "review", "sobriety", "struggles", "xa"]
 ---

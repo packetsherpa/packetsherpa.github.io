@@ -2,6 +2,7 @@
 layout: post
 title: "Matt & Caz's Story"
 date: 2017-03-11 10:12:30
+image: /soberboots/assets/uploads/2017/03/mattandcaz.jpg
 categories: ["guest posts", "soberlife"]
 tags: ["cancer", "cancersucks", "death", "emotional sobriety", "guest post", "love", "sobriety", "soulmates"]
 ---

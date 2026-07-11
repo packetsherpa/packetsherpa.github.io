@@ -2,6 +2,7 @@
 layout: post
 title: "Practicing the Pause"
 date: 2016-09-26 10:06:22
+image: /soberboots/assets/uploads/2016/09/img_1149.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "fatherhood", "recovery", "sober thoughts", "sobriety"]
 ---

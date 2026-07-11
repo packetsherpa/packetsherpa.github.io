@@ -2,6 +2,7 @@
 layout: post
 title: "Connection:  Key to My Survival"
 date: 2017-02-01 08:51:44
+image: /soberboots/assets/uploads/2016/03/img_2056.jpg
 categories: ["soberlife"]
 tags: ["connections", "emotional sobriety", "faith", "recovery", "sobriety"]
 ---

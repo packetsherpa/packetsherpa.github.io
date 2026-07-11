@@ -2,6 +2,7 @@
 layout: post
 title: "A Bike Ride, Sunshine, & Enough"
 date: 2021-01-09 19:35:17
+image: /soberboots/assets/uploads/2021/01/img_1343.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Let me be honest"
 date: 2016-05-16 22:38:03
+image: /soberboots/assets/uploads/2013/07/cropped-soda-bottles.jpg
 categories: ["soberlife"]
 tags: ["honesty", "recovery", "sobriety", "xa"]
 ---

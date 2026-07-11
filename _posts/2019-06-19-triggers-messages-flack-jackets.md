@@ -2,6 +2,7 @@
 layout: post
 title: "Triggers, Messages, & Flack Jackets"
 date: 2019-06-19 15:36:28
+image: /soberboots/assets/uploads/2019/05/184d3584-381a-4672-895e-3ddaa5c79c3f.jpg
 categories: ["soberlife"]
 tags: ["12step", "12steps", "addiciton", "alcoholics anonymous", "alcoholism", "triggers"]
 ---

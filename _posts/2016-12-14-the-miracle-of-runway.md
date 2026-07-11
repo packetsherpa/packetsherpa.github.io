@@ -2,6 +2,7 @@
 layout: post
 title: "The Miracle of Runway"
 date: 2016-12-14 10:43:13
+image: /soberboots/assets/uploads/2016/12/img_3535.jpg
 categories: ["soberlife"]
 tags: ["early sobriety", "miracles", "recovery", "runway", "sobriety", "the universe"]
 ---

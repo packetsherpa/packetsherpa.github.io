@@ -2,6 +2,7 @@
 layout: post
 title: "Step 1: No Control, Negative Impacts"
 date: 2019-10-29 17:45:32
+image: /soberboots/assets/uploads/2019/10/img_1849.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12 step", "12steps", "AA", "alcohol use disorder", "alcoholics anonymous", "alcoholism", "recovery", "step 1", "steps", "surrender"]
 ---

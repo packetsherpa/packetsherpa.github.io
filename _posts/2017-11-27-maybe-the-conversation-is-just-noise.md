@@ -2,6 +2,7 @@
 layout: post
 title: "Maybe the Conversation is Just Noise"
 date: 2017-11-27 12:12:15
+image: /soberboots/assets/uploads/2017/11/65e12b98-8122-4606-a97e-d5bd484c54b6.jpg
 categories: ["soberlife"]
 ---
 

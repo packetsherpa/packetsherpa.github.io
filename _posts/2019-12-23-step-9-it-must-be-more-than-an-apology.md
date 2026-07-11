@@ -2,6 +2,7 @@
 layout: post
 title: "Step 9: It Must Be More than an Apology"
 date: 2019-12-23 15:00:40
+image: /soberboots/assets/uploads/2019/12/b77b2c58-667c-4d44-954f-1c0eb5a70c51.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "alcoholics anonymous", "alcoholism", "growth", "honesty", "MondayBlogs", "recovery", "sober life", "sober thoughts", "sober thougths", "sobriety", "the promises", "xa"]
 ---

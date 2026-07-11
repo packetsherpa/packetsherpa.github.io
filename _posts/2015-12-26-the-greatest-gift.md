@@ -2,6 +2,7 @@
 layout: post
 title: "The Greatest Gift"
 date: 2015-12-26 08:48:59
+image: /soberboots/assets/uploads/2016/03/cropped-img_1679.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "Christmas", "recovery", "sobriety"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Organic Informal Conversion"
 date: 2021-01-15 22:19:33
+image: /soberboots/assets/uploads/2021/01/img_0439.jpg
 categories: ["soberlife"]
 tags: ["gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Reflecting on Crosby, Stills, and Nash's Helplessly Hoping"
 date: 2016-09-14 14:42:46
+image: /soberboots/assets/uploads/2016/09/14311235_10211493530640211_7570408178512724183_o.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "friends", "hope", "recovery", "sober thoughts", "sobriety", "xa"]
 ---

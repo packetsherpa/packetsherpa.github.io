@@ -2,6 +2,7 @@
 layout: post
 title: "Back in the Saddle, Again"
 date: 2017-02-06 14:43:51
+image: /soberboots/assets/uploads/2017/02/img_0189.jpg
 categories: ["soberlife"]
 tags: ["cycling", "fitness", "health", "MondayBlogs", "recovery"]
 ---

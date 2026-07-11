@@ -2,6 +2,7 @@
 layout: post
 title: "Vegas, Baby...Vegas"
 date: 2019-08-22 01:41:37
+image: /soberboots/assets/uploads/2019/08/img_1833.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "change", "emotional sobriety", "freedom", "gratitude", "growth", "positive experience", "recovery", "self care", "sobriety", "willingness"]
 ---

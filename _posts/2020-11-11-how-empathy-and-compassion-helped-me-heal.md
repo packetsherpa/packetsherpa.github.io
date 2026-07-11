@@ -2,6 +2,7 @@
 layout: post
 title: "How Empathy and Compassion Helped Me Heal"
 date: 2020-11-11 19:18:10
+image: /soberboots/assets/uploads/2020/11/img_0908.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "compassion", "emotional sobriety", "feelings", "forgiveness", "growth", "healing", "recovery", "trauma"]
 ---

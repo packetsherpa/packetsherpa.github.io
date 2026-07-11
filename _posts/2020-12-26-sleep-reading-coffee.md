@@ -2,6 +2,7 @@
 layout: post
 title: "Sleep, Reading, & Coffee"
 date: 2020-12-26 10:40:25
+image: /soberboots/assets/uploads/2020/12/img_1245.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

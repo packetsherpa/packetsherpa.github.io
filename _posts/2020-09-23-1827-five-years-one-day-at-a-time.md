@@ -2,6 +2,7 @@
 layout: post
 title: "1827 — Five Years, One Day at a Time"
 date: 2020-09-23 10:59:41
+image: /soberboots/assets/uploads/2020/09/img_0830.jpg
 categories: ["soberlife"]
 tags: ["12steps", "acceptance", "addiction", "alcohol use disorder", "alcoholics anonymous", "alcoholism", "change", "faith", "freedom", "gratitude", "healing", "recovery", "sober life", "sobriety", "surrender", "the promises", "willingness"]
 ---

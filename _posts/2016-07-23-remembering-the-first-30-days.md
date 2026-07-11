@@ -2,6 +2,7 @@
 layout: post
 title: "Remembering the first 30 days..."
 date: 2016-07-23 19:12:30
+image: /soberboots/assets/uploads/2016/07/p1010344.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "booze", "early sobriety", "gratitude", "recovery", "sober thougths", "sobriety", "struggles", "xa"]
 ---

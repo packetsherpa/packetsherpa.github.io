@@ -2,6 +2,7 @@
 layout: post
 title: "Kindness, Compassion, Skilled Hands, & Prayer"
 date: 2020-12-09 07:20:48
+image: /soberboots/assets/uploads/2020/12/img_0912.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

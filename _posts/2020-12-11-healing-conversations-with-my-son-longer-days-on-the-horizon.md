@@ -2,6 +2,7 @@
 layout: post
 title: "Healing, Conversations with My Son, & Longer Days on the Horizon"
 date: 2020-12-11 13:19:21
+image: /soberboots/assets/uploads/2016/09/img_1149.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

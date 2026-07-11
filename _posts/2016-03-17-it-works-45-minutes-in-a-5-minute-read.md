@@ -2,6 +2,7 @@
 layout: post
 title: "It works -- 45 minutes in a 5 minute read"
 date: 2016-03-17 14:55:30
+image: /soberboots/assets/uploads/2016/03/img_2133.jpg
 categories: ["soberlife"]
 tags: ["recovery", "sobriety", "xa"]
 ---

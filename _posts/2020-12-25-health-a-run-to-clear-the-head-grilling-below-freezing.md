@@ -2,6 +2,7 @@
 layout: post
 title: "Health, A Run to Clear the Head, & Grilling Below Freezing"
 date: 2020-12-25 18:58:48
+image: /soberboots/assets/uploads/2020/12/img_1227.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

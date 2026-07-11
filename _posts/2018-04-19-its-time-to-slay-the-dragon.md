@@ -2,6 +2,7 @@
 layout: post
 title: "It's Time to Slay the Dragon"
 date: 2018-04-19 11:21:32
+image: /soberboots/assets/uploads/2018/04/10593067_10205279912503641_5797581371002938721_n.jpg
 categories: ["soberlife"]
 tags: ["early sobriety", "facing fear", "fear", "fraternity", "fraternity boys", "friends", "penn state", "recovery", "sobriety"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "The Book of Joy"
 date: 2020-11-21 19:25:38
+image: /soberboots/assets/uploads/2020/11/img_1053.jpg
 categories: ["soberlife"]
 tags: ["compassion", "empathy", "joy"]
 ---

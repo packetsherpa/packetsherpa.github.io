@@ -2,6 +2,7 @@
 layout: post
 title: "Strengthening Our Hearts"
 date: 2020-08-01 09:14:20
+image: /soberboots/assets/uploads/2020/08/img_0626.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "alcoholism", "compassion", "emotional sobriety", "feelings", "gratitude", "growth", "honesty", "recovery", "running", "self care", "sobriety", "struggles", "willingness"]
 ---

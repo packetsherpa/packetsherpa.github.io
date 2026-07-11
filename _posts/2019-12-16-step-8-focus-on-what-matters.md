@@ -2,6 +2,7 @@
 layout: post
 title: "Step 8: Focus on What Matters"
 date: 2019-12-16 14:22:19
+image: /soberboots/assets/uploads/2019/12/img_2308.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "addiction", "alcohol use disorder", "alcoholics anonymous", "alcoholism", "emotional sobriety", "growth", "honesty", "MondayBlogs", "recovery", "sobriety", "xa"]
 ---

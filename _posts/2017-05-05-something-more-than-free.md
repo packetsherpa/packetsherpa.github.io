@@ -2,6 +2,7 @@
 layout: post
 title: "Something More than Free"
 date: 2017-05-05 19:20:36
+image: /soberboots/assets/uploads/2017/05/img_0627.jpg
 categories: ["soberlife"]
 tags: ["freedom", "recovery", "sobriety"]
 ---

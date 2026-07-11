@@ -2,6 +2,7 @@
 layout: post
 title: "Lasagna as Service Work"
 date: 2017-10-01 19:06:59
+image: /soberboots/assets/uploads/2017/10/img_0341.jpg
 categories: ["soberlife"]
 ---
 

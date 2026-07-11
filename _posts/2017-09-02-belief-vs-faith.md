@@ -2,6 +2,7 @@
 layout: post
 title: "Belief vs Faith"
 date: 2017-09-02 20:50:00
+image: /soberboots/assets/uploads/2017/09/img_1441.jpg
 categories: ["soberlife"]
 tags: ["12steps", "belief", "faith", "recovery", "sobriety", "struggles", "thoughts", "willingness"]
 ---

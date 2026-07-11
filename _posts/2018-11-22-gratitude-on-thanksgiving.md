@@ -2,6 +2,7 @@
 layout: post
 title: "Gratitude on Thanksgiving"
 date: 2018-11-22 18:23:35
+image: /soberboots/assets/uploads/2018/11/img_0125.jpg
 categories: ["soberlife"]
 tags: ["12step", "addiction", "alcoholism", "death", "gratitude", "recovery", "sobriety", "surrender", "xa"]
 ---

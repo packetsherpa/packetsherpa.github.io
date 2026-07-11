@@ -2,6 +2,7 @@
 layout: post
 title: "Resilience in the Time of COVID-19"
 date: 2020-03-22 20:24:24
+image: /soberboots/assets/uploads/2020/03/45506_24-72dpi-1.jpg
 categories: ["soberlife"]
 tags: ["coronavirus", "covid-19", "emotional sobriety", "fear", "healing", "health", "hope", "humanity", "miracles", "mystery", "resilience", "struggles"]
 ---

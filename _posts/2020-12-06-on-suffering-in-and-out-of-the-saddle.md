@@ -2,6 +2,7 @@
 layout: post
 title: "On Suffering, In and Out of the Saddle"
 date: 2020-12-06 19:36:10
+image: /soberboots/assets/uploads/2020/12/img_0426.jpg
 categories: ["soberlife"]
 tags: ["cycling", "emotional sobriety", "recovery", "sobriety", "suffering"]
 ---

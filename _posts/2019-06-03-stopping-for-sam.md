@@ -2,6 +2,7 @@
 layout: post
 title: "Stopping for Sam"
 date: 2019-06-03 10:12:38
+image: /soberboots/assets/uploads/2019/06/img_1235.jpg
 categories: ["soberlife"]
 tags: ["12step", "addiction", "alcoholism", "connections", "conversations", "denial", "fear", "growth", "hope", "MondayBlogs", "opioids", "recovery", "self care", "sobriety", "xa"]
 ---

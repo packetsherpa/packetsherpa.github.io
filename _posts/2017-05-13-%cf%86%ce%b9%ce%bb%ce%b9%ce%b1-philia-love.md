@@ -2,6 +2,7 @@
 layout: post
 title: "φιλία (philía) love"
 date: 2017-05-13 08:27:12
+image: /soberboots/assets/uploads/2017/05/img_2530.jpg
 categories: ["soberlife"]
 tags: ["brothers", "emotional sobriety", "love", "philia", "recovery", "sobriety"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "New Gear, A Packed Trail, & Pizza"
 date: 2021-01-02 18:35:04
+image: /soberboots/assets/uploads/2021/01/img_1307.jpg
 categories: ["soberlife"]
 tags: ["cycling", "daily gratitude", "gratitude", "year of gratitude"]
 ---

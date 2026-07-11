@@ -2,6 +2,7 @@
 layout: post
 title: "Hell Yeah, I'm Celebrating -- Settle Down, Ego"
 date: 2016-09-13 13:00:20
+image: /soberboots/assets/uploads/2016/09/8291470991_1de247d0d5_o.jpg
 categories: ["soberlife"]
 tags: ["connections", "fatherhood", "friends", "honesty", "hope", "recovery", "sober thoughts", "sobriety", "social media"]
 ---

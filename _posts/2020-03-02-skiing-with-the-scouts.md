@@ -2,6 +2,7 @@
 layout: post
 title: "Skiing with the Scouts"
 date: 2020-03-02 15:02:13
+image: /soberboots/assets/uploads/2020/03/img_2714-1.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "compassion", "fatherhood", "feelings", "frustrations", "gratitude", "growth", "hope", "miracles", "MondayBlogs", "recovery", "sobriety", "struggles", "the promises"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Reminders, A Pair of Old Characters, & Retained Heat"
 date: 2021-01-03 18:54:44
+image: /soberboots/assets/uploads/2021/01/img_1320.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "men ories", "year of gratitude"]
 ---

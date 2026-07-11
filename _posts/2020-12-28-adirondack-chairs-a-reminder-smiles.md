@@ -2,6 +2,7 @@
 layout: post
 title: "Adirondack Chairs, A Reminder, & Smiles"
 date: 2020-12-28 14:25:30
+image: /soberboots/assets/uploads/2020/12/img_1013.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

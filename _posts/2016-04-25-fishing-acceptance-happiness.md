@@ -2,6 +2,7 @@
 layout: post
 title: "Fishing, Acceptance, Happiness"
 date: 2016-04-25 10:09:29
+image: /soberboots/assets/uploads/2016/04/img_1748.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "daily life", "fatherhood", "fishing", "happiness", "recovery", "sober thoughts", "sobriety"]
 ---

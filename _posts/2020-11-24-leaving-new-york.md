@@ -2,6 +2,7 @@
 layout: post
 title: "Leaving New York"
 date: 2020-11-24 16:00:47
+image: /soberboots/assets/uploads/2020/11/img_1067-1.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "emotional sobriety", "feelings", "hope", "recovery", "sobriety", "struggles", "surrender"]
 ---

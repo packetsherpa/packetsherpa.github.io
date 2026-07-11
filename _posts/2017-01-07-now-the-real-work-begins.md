@@ -2,6 +2,7 @@
 layout: post
 title: "Now the Real Work Begins"
 date: 2017-01-07 12:05:50
+image: /soberboots/assets/uploads/2017/01/img_1635.jpg
 categories: ["soberlife"]
 ---
 

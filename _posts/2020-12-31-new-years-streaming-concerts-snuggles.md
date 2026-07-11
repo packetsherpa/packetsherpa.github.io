@@ -2,6 +2,7 @@
 layout: post
 title: "New Years, Streaming Concerts, & Snuggles"
 date: 2020-12-31 13:30:21
+image: /soberboots/assets/uploads/2020/12/img_1344.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

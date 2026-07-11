@@ -2,6 +2,7 @@
 layout: post
 title: "Step 11: This Too Is Prayer"
 date: 2020-01-06 10:35:16
+image: /soberboots/assets/uploads/2020/01/img_2423.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12step", "12steps", "addiciton", "alcoholism", "faith", "growth", "meditation", "MondayBlogs", "prayer", "recovery", "sober thoughts", "sobriety", "spirituality", "struggles"]
 ---

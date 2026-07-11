@@ -2,6 +2,7 @@
 layout: post
 title: "Our writer has lost his voice"
 date: 2021-12-13 12:04:38
+image: /soberboots/assets/uploads/2021/12/img_2541.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "growth", "MondayBlogs", "recovery", "sober life", "sober thoughts", "storytelling", "struggles", "writing"]
 ---

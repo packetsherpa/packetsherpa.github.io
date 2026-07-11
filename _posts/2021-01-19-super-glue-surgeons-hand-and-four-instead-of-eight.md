@@ -2,6 +2,7 @@
 layout: post
 title: "Super Glue, Surgeon’s Hands, & and Four Instead of Eight"
 date: 2021-01-19 20:39:13
+image: /soberboots/assets/uploads/2020/11/img_1154.jpg
 categories: ["soberlife"]
 tags: ["gratitude"]
 ---

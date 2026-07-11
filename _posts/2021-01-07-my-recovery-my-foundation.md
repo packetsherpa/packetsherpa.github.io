@@ -2,6 +2,7 @@
 layout: post
 title: "My Recovery, My Foundation"
 date: 2021-01-07 09:00:13
+image: /soberboots/assets/uploads/2015/12/cropped-img_16342.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

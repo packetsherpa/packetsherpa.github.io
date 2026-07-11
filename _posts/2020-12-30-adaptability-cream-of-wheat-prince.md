@@ -2,6 +2,7 @@
 layout: post
 title: "Adaptability, Cream of Wheat, & Prince"
 date: 2020-12-30 15:05:03
+image: /soberboots/assets/uploads/2020/12/img_1247.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

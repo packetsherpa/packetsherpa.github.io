@@ -2,6 +2,7 @@
 layout: post
 title: "Freedom & Willingness"
 date: 2017-04-17 20:21:37
+image: /soberboots/assets/uploads/2017/04/img_0550.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "freedom", "recovery", "sobriety", "willingness"]
 ---

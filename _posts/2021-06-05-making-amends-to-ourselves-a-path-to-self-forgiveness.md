@@ -2,6 +2,7 @@
 layout: post
 title: "Making Amends to Ourselves — a Path to Self Forgiveness"
 date: 2021-06-05 20:20:58
+image: /soberboots/assets/uploads/2021/06/img_0546.jpg
 categories: ["soberlife"]
 tags: ["12step", "12steps", "alcoholism", "amends", "compassion", "emotional sobriety", "feelings", "forgiveness", "growth", "healing", "honesty", "recovery", "self care", "sobriety", "struggles", "the promises", "willingness"]
 ---

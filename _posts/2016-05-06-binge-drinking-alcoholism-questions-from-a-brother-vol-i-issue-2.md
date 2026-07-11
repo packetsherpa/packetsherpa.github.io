@@ -2,6 +2,7 @@
 layout: post
 title: "Binge Drinking & Alcoholism -- Questions from a Brother: Vol I, issue 2"
 date: 2016-05-06 14:38:57
+image: /soberboots/assets/uploads/2016/05/img_0061.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "binge drinking", "booze", "college", "fraternity boys", "recovery", "sobriety"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Why I Changed My Twitter Handle, Again"
 date: 2018-12-30 11:17:38
+image: /soberboots/assets/uploads/2018/12/img_0322.jpg
 categories: ["soberlife"]
 tags: ["connections", "emotional sobriety", "honesty", "recovery", "sober thoughts", "sobriety", "social media", "Twitter"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "The Plan that Wasn’t a Plan"
 date: 2018-08-03 12:24:19
+image: /soberboots/assets/uploads/2018/08/img_0922.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "emotional sobriety", "gratitude", "martha's vineyard", "menemsha", "recovery", "sobriety", "the promises"]
 ---

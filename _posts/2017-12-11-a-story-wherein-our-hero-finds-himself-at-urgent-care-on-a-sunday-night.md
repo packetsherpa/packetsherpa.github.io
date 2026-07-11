@@ -2,6 +2,7 @@
 layout: post
 title: "A Story Wherein Our Hero Finds Himself at Urgent Care on a Sunday Night"
 date: 2017-12-11 13:32:31
+image: /soberboots/assets/uploads/2017/12/8a3397ce-82bf-4e00-aa86-a97bea42743f.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "feelings", "health", "MondayBlogs", "recovery"]
 ---

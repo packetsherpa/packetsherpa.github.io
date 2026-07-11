@@ -2,6 +2,7 @@
 layout: post
 title: "\"Just Say No\" Didn't Work in the '80s and the Slogan Won't Work Today"
 date: 2017-08-10 15:23:57
+image: /soberboots/assets/uploads/2017/08/img_0077.jpg
 categories: ["soberlife"]
 tags: ["drug policy", "failure", "incarceration", "just say no", "law enforcement", "opioid crisis", "opioids", "politics", "recovery", "war on drugs"]
 ---

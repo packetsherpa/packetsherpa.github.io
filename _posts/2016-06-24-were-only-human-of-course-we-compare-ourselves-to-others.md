@@ -2,6 +2,7 @@
 layout: post
 title: "How looking for the similarities rather than the differences changed my life"
 date: 2016-06-24 08:15:47
+image: /soberboots/assets/uploads/2016/02/img_1956.jpg
 categories: ["soberlife"]
 tags: ["12step", "12steps", "alcoholism", "connections", "honesty", "humanity", "oneness", "recovery", "sober thoughts", "sobriety", "struggles", "xa"]
 ---

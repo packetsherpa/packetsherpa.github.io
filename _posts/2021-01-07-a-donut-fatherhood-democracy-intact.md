@@ -2,6 +2,7 @@
 layout: post
 title: "A Donut, Fatherhood, Democracy Intact"
 date: 2021-01-07 19:35:49
+image: /soberboots/assets/uploads/2021/01/img_1334.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

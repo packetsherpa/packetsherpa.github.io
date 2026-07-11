@@ -2,6 +2,7 @@
 layout: post
 title: "Vigilance"
 date: 2019-07-22 13:20:00
+image: /soberboots/assets/uploads/2019/07/img_1233.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "MondayBlogs", "recovery", "sober thoughts", "sobriety", "vigilance", "xa"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Neural Pathways, An Old Photo, & a Warm Day Ahead"
 date: 2020-12-12 09:00:12
+image: /soberboots/assets/uploads/2020/12/img_1583.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "early sobriety", "emotional sobriety", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Old Habits Die Hard -- Feelings, Self Pity, and Regrets"
 date: 2016-12-26 10:53:52
+image: /soberboots/assets/uploads/2016/12/img_3758.jpg
 categories: ["soberlife"]
 tags: ["Christmas", "disney", "disneyworld", "emotional sobriety", "recovery", "regrets", "self pity", "sober life", "sobriety", "the promises", "unworthiness"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "A Meeting, Values, & DIGEX"
 date: 2020-12-18 16:49:05
+image: /soberboots/assets/uploads/2020/12/img_2321.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

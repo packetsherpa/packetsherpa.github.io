@@ -2,6 +2,7 @@
 layout: post
 title: "Another Gift of My Sobriety"
 date: 2017-02-13 10:26:59
+image: /soberboots/assets/uploads/2017/02/d70c37d9-bc6f-4c55-9810-0b3727d4aa0e.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "gift", "MondayBlogs", "philladelphia", "recovery", "sober life", "sobriety", "travel", "trip"]
 ---

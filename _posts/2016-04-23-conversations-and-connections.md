@@ -2,6 +2,7 @@
 layout: post
 title: "Conversations and Connections"
 date: 2016-04-23 11:24:28
+image: /soberboots/assets/uploads/2016/04/img_2256.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "Buddhism", "connections", "conversations", "recovery", "sangha", "sober thoughts", "sobriety", "xa"]
 ---

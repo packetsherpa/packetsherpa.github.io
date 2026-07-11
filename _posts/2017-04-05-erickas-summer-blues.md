@@ -2,6 +2,7 @@
 layout: post
 title: "Ericka's Summer Blues"
 date: 2017-04-05 19:08:09
+image: /soberboots/assets/uploads/2016/07/img_3043.jpg
 categories: ["guest posts", "soberlife"]
 tags: ["addiciton", "alcoholism", "guest post", "recovery"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "What Does It Mean To Write a Recovery Blog?"
 date: 2017-08-09 10:30:08
+image: /soberboots/assets/uploads/2017/08/img_0998.jpg
 categories: ["soberlife"]
 tags: ["doubts", "fear", "humanity", "politics", "recovery", "sobriety", "struggles", "writing"]
 ---

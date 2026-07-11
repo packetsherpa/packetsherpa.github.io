@@ -2,6 +2,7 @@
 layout: post
 title: "Rest & Easy Dinners"
 date: 2020-12-23 21:47:03
+image: /soberboots/assets/uploads/2020/12/img_2837.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

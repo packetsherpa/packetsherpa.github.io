@@ -2,6 +2,7 @@
 layout: post
 title: "WTF, the AC is on the fritz..."
 date: 2016-05-27 14:05:42
+image: /soberboots/assets/uploads/2016/05/img_2319.jpg
 categories: ["soberlife"]
 tags: ["growth", "Murphy's Law", "recovery", "sober thoughts", "sobriety", "struggles"]
 ---

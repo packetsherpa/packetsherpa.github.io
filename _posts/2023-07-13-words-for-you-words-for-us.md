@@ -2,6 +2,7 @@
 layout: post
 title: "Words for You, Words for Us"
 date: 2023-07-13 13:00:00
+image: /soberboots/assets/uploads/2023/07/img_1290.jpg
 categories: ["soberlife"]
 tags: ["death", "grief", "mourning", "poem", "poetry", "struggles"]
 ---

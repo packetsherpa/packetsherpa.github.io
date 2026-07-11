@@ -2,6 +2,7 @@
 layout: post
 title: "My Role at Work, My Health, & Cinnamon Tea"
 date: 2020-12-14 18:59:05
+image: /soberboots/assets/uploads/2020/12/img_1201.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "emotional sobriety", "gratitude", "recovery", "sober thoughts", "sobriety", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Having Fun Sobriety, as an Introvert"
 date: 2020-02-06 16:30:27
+image: /soberboots/assets/uploads/2020/02/img_2399.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "connections", "friends", "introversion", "recovery", "sober thoughts", "sobriety", "social anxiety"]
 ---

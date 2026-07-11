@@ -2,6 +2,7 @@
 layout: post
 title: "Reflections On a Weekend After Two Years Without a Drink"
 date: 2017-09-25 10:40:01
+image: /soberboots/assets/uploads/2017/09/img_1613-e1506350128501.jpg
 categories: ["soberlife"]
 tags: ["best laid plans", "emotional sobriety", "escape", "gone awry", "MondayBlogs", "recovery", "sobriety", "thoughts"]
 ---

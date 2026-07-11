@@ -2,6 +2,7 @@
 layout: post
 title: "It’s Been a Struggle"
 date: 2018-03-19 08:00:40
+image: /soberboots/assets/uploads/2018/03/img_0150.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "addiction", "alcoholism", "emotional sobriety", "escape", "fatherhood", "fear", "feelings", "health", "honesty", "recovery", "sobriety", "struggles", "writing"]
 ---

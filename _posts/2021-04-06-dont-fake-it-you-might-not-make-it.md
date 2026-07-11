@@ -2,6 +2,7 @@
 layout: post
 title: "Don’t Fake It — You Might Not Make It"
 date: 2021-04-06 10:56:05
+image: /soberboots/assets/uploads/2021/04/img_1723.jpg
 categories: ["soberlife"]
 tags: ["addiction", "alcoholism", "denial", "faith", "God", "God of My Understanding", "growth", "honesty", "recovery", "sober life", "sobriety", "spirituality", "surrender"]
 ---

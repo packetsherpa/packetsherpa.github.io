@@ -2,6 +2,7 @@
 layout: post
 title: "Sharing the Load, Permission to Feel, & Impermanence"
 date: 2020-12-21 17:54:14
+image: /soberboots/assets/uploads/2020/12/ad78559d-84ab-4712-9742-69651101c0f2.jpg
 categories: ["soberlife"]
 tags: ["Buddhism", "change", "daily gratitude", "feelings", "frustrations", "gratitude", "honesty", "impermanence", "recovery", "sobriety", "struggles", "year of gratitude"]
 ---

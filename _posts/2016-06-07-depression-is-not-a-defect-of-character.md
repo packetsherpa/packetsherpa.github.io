@@ -2,6 +2,7 @@
 layout: post
 title: "Depression is NOT a \"defect of character\""
 date: 2016-06-07 10:23:04
+image: /soberboots/assets/uploads/2016/06/8291450395_982417605e_o.jpg
 categories: ["soberlife"]
 tags: ["12step", "12steps", "alcoholism", "anxiety", "depression", "mental health", "recovery", "sober thoughts", "sobriety", "xa"]
 ---

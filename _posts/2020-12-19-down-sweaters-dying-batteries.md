@@ -2,6 +2,7 @@
 layout: post
 title: "Down Sweaters & Dying Batteries"
 date: 2020-12-19 16:05:37
+image: /soberboots/assets/uploads/2018/12/img_0322.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

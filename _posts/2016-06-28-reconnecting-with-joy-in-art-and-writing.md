@@ -2,6 +2,7 @@
 layout: post
 title: "Reconnecting with joy in art and writing"
 date: 2016-06-28 12:42:57
+image: /soberboots/assets/uploads/2016/06/p1010115.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "art", "fatherhood", "recovery", "sober thoughts", "sobriety"]
 ---

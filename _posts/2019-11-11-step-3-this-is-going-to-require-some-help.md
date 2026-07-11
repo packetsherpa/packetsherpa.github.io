@@ -2,6 +2,7 @@
 layout: post
 title: "Step 3: This is Going To Require Some Help"
 date: 2019-11-11 08:11:22
+image: /soberboots/assets/uploads/2019/11/img_6053.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "addiciton", "alcoholism", "change", "early sobriety", "growth", "hope", "MondayBlogs", "recovery", "sangha", "sobriety", "step3", "struggles", "willingness", "xa"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "I’m Not Gonna Bitch and Moan — Well, Not Much"
 date: 2018-06-09 15:52:04
+image: /soberboots/assets/uploads/2018/06/img_0610.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "emotional sobriety", "health", "recovery", "self care", "sobriety", "struggles", "surrender"]
 ---

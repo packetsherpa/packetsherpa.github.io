@@ -2,6 +2,7 @@
 layout: post
 title: "Shaken, Not Shattered"
 date: 2016-11-09 09:21:11
+image: /soberboots/assets/uploads/2016/11/img_3447.jpg
 categories: ["soberlife"]
 tags: ["election", "emotional sobriety", "politics", "recovery", "sobriety", "struggles"]
 ---

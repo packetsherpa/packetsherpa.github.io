@@ -2,6 +2,7 @@
 layout: post
 title: "Flexibility, Running, & the Sun"
 date: 2020-12-22 13:51:24
+image: /soberboots/assets/uploads/2020/12/img_1102-1.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "emotional sobriety", "gratitude", "recovery", "running", "sobriety", "year of gratitude"]
 ---

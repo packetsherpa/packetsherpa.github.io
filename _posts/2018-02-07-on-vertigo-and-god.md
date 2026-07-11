@@ -2,6 +2,7 @@
 layout: post
 title: "On Vertigo and God"
 date: 2018-02-07 14:20:56
+image: /soberboots/assets/uploads/2018/02/66b8a1f9-6de3-4c18-8823-ecb6b87e373c.jpg
 categories: ["soberlife"]
 tags: ["12step", "alcoholism", "God", "God of My Understanding", "recovery", "step 2", "tewelve steps", "vertigo"]
 ---

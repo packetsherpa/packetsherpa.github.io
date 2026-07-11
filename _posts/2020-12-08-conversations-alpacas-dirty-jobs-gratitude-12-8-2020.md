@@ -2,6 +2,7 @@
 layout: post
 title: "Conversations, Alpacas, & Dirty Jobs — Gratitude 12/8/2020"
 date: 2020-12-08 13:02:23
+image: /soberboots/assets/uploads/2020/12/img_0308.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "My Boy’s Birthday, Shake Shack, & Zoom"
 date: 2020-12-27 18:12:52
+image: /soberboots/assets/uploads/2020/12/img_1255.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

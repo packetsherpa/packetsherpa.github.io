@@ -2,6 +2,7 @@
 layout: post
 title: "So, This is What “Comfort in Your Own Skin” Looks Like"
 date: 2017-01-16 07:35:54
+image: /soberboots/assets/uploads/2017/01/img_3807.jpg
 categories: ["soberlife"]
 tags: ["introvert", "recovery", "sobriety"]
 ---

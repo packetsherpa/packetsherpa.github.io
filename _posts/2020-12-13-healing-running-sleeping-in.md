@@ -2,6 +2,7 @@
 layout: post
 title: "Healing, Running, & Sleeping In"
 date: 2020-12-13 09:08:37
+image: /soberboots/assets/uploads/2020/12/img_1196.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "emotional sobriety", "gratitude", "healing", "recovery", "running", "sleep", "sober thoughts", "sobriety", "year of gratitude"]
 ---

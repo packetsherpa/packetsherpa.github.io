@@ -2,6 +2,7 @@
 layout: post
 title: "A spontaneous evening"
 date: 2016-06-08 17:29:19
+image: /soberboots/assets/uploads/2016/06/img_2534.jpg
 categories: ["soberlife"]
 tags: ["recovery", "sober thoughts", "sobriety", "xa"]
 ---

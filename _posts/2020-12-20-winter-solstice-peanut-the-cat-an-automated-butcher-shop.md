@@ -2,6 +2,7 @@
 layout: post
 title: "Winter Solstice, Peanut the Cat, & an Automated Butcher Shop"
 date: 2020-12-20 14:55:45
+image: /soberboots/assets/uploads/2020/12/img_1062.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "When \"We Agnostics\" Fails Us"
 date: 2017-09-18 12:41:57
+image: /soberboots/assets/uploads/2017/09/p1020279.jpg
 categories: ["soberlife"]
 tags: ["12steps", "agnostics", "alcoholics anonymous", "alcoholism", "book review", "faith", "MondayBlogs", "recovery", "spirituality"]
 ---

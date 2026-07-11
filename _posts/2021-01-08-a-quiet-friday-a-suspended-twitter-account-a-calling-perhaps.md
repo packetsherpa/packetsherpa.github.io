@@ -2,6 +2,7 @@
 layout: post
 title: "A Quiet Friday, A Suspended Twitter Account, & A Calling, Perhaps"
 date: 2021-01-08 19:15:21
+image: /soberboots/assets/uploads/2020/12/img_0221.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

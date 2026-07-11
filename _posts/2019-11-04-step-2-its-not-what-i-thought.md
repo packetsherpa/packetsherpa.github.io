@@ -2,6 +2,7 @@
 layout: post
 title: "Step 2: It’s Not What I Thought"
 date: 2019-11-04 13:59:15
+image: /soberboots/assets/uploads/2019/11/img_1541.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12step", "12steps", "alcoholics anonymous", "alcoholism", "early sobriety", "faith", "God", "God of My Understanding", "hope", "MondayBlogs", "recovery", "sober thoughts", "sobriety", "step2", "struggles", "xa"]
 ---

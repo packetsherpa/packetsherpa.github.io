@@ -2,6 +2,7 @@
 layout: post
 title: "Telemedicine, Warmth, & an Old Friend"
 date: 2020-12-15 17:12:06
+image: /soberboots/assets/uploads/2020/12/img_1972.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

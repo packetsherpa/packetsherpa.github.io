@@ -2,6 +2,7 @@
 layout: post
 title: "A Great Run & the State of Flow"
 date: 2021-01-16 20:56:49
+image: /soberboots/assets/uploads/2020/12/img_1149.jpg
 categories: ["soberlife"]
 ---
 

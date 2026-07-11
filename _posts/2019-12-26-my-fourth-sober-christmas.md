@@ -2,6 +2,7 @@
 layout: post
 title: "My Fourth Sober Christmas"
 date: 2019-12-26 11:48:36
+image: /soberboots/assets/uploads/2019/12/img_2393.jpg
 categories: ["soberlife"]
 tags: ["Christmas", "fear", "guilt", "honesty", "recovery", "sober life", "sobriety"]
 ---

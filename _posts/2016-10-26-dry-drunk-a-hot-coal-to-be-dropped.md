@@ -2,6 +2,7 @@
 layout: post
 title: "Dry Drunk: A Hot Coal to be Dropped"
 date: 2016-10-26 10:37:16
+image: /soberboots/assets/uploads/2016/10/p1010619.jpg
 categories: ["soberlife"]
 tags: ["12step", "emotional sobriety", "human condition", "humanity", "recovery", "sobriety", "the human condition"]
 ---

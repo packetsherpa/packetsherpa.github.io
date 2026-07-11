@@ -2,6 +2,7 @@
 layout: post
 title: "Thoughts. Tears. Gratitude."
 date: 2017-07-01 11:05:36
+image: /soberboots/assets/uploads/2017/07/img_0779.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "alcoholism", "connections", "gratitude", "hope", "recovery", "sobriety", "struggles", "surrender", "xa"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Current Status:  In Need of Self-Care"
 date: 2016-11-17 09:07:28
+image: /soberboots/assets/uploads/2016/10/45504_07.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "recovery", "self care", "sobriety", "social media"]
 ---

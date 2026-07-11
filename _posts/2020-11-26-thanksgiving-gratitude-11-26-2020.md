@@ -2,6 +2,7 @@
 layout: post
 title: "Thanksgiving Gratitude 11/26/2020"
 date: 2020-11-26 10:50:08
+image: /soberboots/assets/uploads/2020/11/62809796830__ff739d34-0fff-4b1c-821e-77c4d4ad451b.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "Thanksgiving", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Fragility, Acceptance, and Patience"
 date: 2020-01-20 11:05:13
+image: /soberboots/assets/uploads/2020/01/img_2511.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "emotional sobriety", "gratitude", "hope", "MondayBlogs", "patience", "recovery", "sobriety", "struggles"]
 ---

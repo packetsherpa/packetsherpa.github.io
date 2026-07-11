@@ -2,6 +2,7 @@
 layout: post
 title: "Resignation Masquerading as Acceptance"
 date: 2021-03-25 18:49:50
+image: /soberboots/assets/uploads/2021/03/img_1247.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "dad", "death", "feelings", "healing", "recovery", "sobriety", "struggles", "suicide", "suicide survivor"]
 ---

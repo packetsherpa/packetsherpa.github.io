@@ -2,6 +2,7 @@
 layout: post
 title: "It's Taken Me a Long Time to Get Here, Again"
 date: 2017-02-21 10:54:16
+image: /soberboots/assets/uploads/2017/02/16684232_10213132721978970_6152647257268955533_n.jpg
 categories: ["soberlife"]
 tags: ["12steps", "emotional sobriety", "God", "God of My Understanding", "Panentheism", "recovery", "sobriety", "surrender", "xa"]
 ---

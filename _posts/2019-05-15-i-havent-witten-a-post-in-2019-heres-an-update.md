@@ -2,6 +2,7 @@
 layout: post
 title: "I Haven’t Written a Post In 2019, Here’s an Update"
 date: 2019-05-15 08:53:03
+image: /soberboots/assets/uploads/2019/05/184d3584-381a-4672-895e-3ddaa5c79c3f.jpg
 categories: ["soberlife"]
 tags: ["addiciton", "emotional sobriety", "escape", "healing", "honesty", "recovery", "sobriety", "social media", "struggles"]
 ---

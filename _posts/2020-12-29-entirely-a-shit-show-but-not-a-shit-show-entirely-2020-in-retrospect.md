@@ -2,6 +2,7 @@
 layout: post
 title: "Entirely a Shit-show, but Not a Shit-show Entirely:  2020 in Retrospect"
 date: 2020-12-29 11:09:01
+image: /soberboots/assets/uploads/2020/12/img_1253.jpg
 categories: ["soberlife"]
 tags: ["2020", "coronavirus", "covid-19", "growth", "health", "honesty", "hope", "memories", "pandemic", "politics", "retrospective", "storytelling", "thoughts", "travel"]
 ---

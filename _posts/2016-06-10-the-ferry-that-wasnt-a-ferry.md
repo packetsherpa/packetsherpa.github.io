@@ -2,6 +2,7 @@
 layout: post
 title: "The ferry that wasn't a ferry."
 date: 2016-06-10 19:20:11
+image: /soberboots/assets/uploads/2016/06/img_1368.jpg
 categories: ["soberlife"]
 tags: ["anxiety", "frustrations", "sober life", "sober thoughts", "sobriety", "struggles", "xa"]
 ---

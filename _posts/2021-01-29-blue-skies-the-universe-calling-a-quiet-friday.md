@@ -2,6 +2,7 @@
 layout: post
 title: "Blue Skies, the Universe Calling, & a Quiet Friday"
 date: 2021-01-29 13:01:59
+image: /soberboots/assets/uploads/2020/11/img_1031-1.jpg
 categories: ["soberlife"]
 tags: ["gratitude", "recovery", "sobriety"]
 ---

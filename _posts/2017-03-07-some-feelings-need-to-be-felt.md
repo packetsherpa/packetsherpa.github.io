@@ -2,6 +2,7 @@
 layout: post
 title: "Some Feelings Need to be Felt"
 date: 2017-03-07 15:07:16
+image: /soberboots/assets/uploads/2016/03/img_2133.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "emotional sobriety", "feelings", "recovery", "sobriety"]
 ---

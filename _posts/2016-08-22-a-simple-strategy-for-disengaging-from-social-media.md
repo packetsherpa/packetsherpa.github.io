@@ -2,6 +2,7 @@
 layout: post
 title: "A Simple Strategy for Disengaging from Social Media"
 date: 2016-08-22 11:54:58
+image: /soberboots/assets/uploads/2016/03/cropped-img_1659.jpg
 categories: ["soberlife"]
 tags: ["addiction", "Facebook", "Instagram", "recovery", "sober thoughts", "sobriety", "social media", "struggles", "technology", "tecnology addiction", "Twitter"]
 ---

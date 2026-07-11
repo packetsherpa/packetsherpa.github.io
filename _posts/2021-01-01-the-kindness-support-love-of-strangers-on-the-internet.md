@@ -2,6 +2,7 @@
 layout: post
 title: "The Kindness, Support, & Love of Strangers"
 date: 2021-01-01 19:41:31
+image: /soberboots/assets/uploads/2021/01/img_1304.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "recovery", "sobriety", "Twitter", "year of gratitude"]
 ---

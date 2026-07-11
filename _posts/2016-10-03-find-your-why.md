@@ -2,6 +2,7 @@
 layout: post
 title: "Find Your \"Why\""
 date: 2016-10-03 09:37:05
+image: /soberboots/assets/uploads/2016/10/45504_07.jpg
 categories: ["soberlife"]
 tags: ["Buddhism", "Dukkha", "logotherapy", "Nietzsche", "recovery", "sober life", "sober thoughts", "sobriety", "struggles", "Viktor Frankl"]
 ---

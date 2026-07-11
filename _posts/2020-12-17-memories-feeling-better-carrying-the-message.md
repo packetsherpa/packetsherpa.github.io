@@ -2,6 +2,7 @@
 layout: post
 title: "Memories, Feeling Better, & Carrying the Message"
 date: 2020-12-17 09:19:19
+image: /soberboots/assets/uploads/2020/12/dsc_2790.jpg
 categories: ["soberlife"]
 tags: ["12th Step", "carry the message", "daily gratitude", "esh", "gratitude", "healing", "memories", "recovery", "sobriety", "year of gratitude"]
 ---

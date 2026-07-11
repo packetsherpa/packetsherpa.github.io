@@ -2,6 +2,7 @@
 layout: post
 title: "Step 4: Honestly Recognizing Our Own Humanity"
 date: 2019-11-18 07:26:45
+image: /soberboots/assets/uploads/2019/11/img_0130.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12step", "12steps", "addiciton", "alcoholics anonymous", "alcoholism", "feelings", "honesty", "humanity", "MondayBlogs", "recovery", "sober life", "sober thoughts", "sobriety", "step4", "steps", "struggles", "willingness", "xa"]
 ---

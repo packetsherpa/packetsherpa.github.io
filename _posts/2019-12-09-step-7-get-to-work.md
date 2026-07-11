@@ -2,6 +2,7 @@
 layout: post
 title: "Step 7: Get to Work"
 date: 2019-12-09 15:02:43
+image: /soberboots/assets/uploads/2019/12/img_0133.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "acceptance", "addiction", "alcoholics anonymous", "alcoholism", "growth", "MondayBlogs", "recovery", "sober thoughts", "sobriety", "xa"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "It’s a Mystery"
 date: 2018-01-02 17:17:12
+image: /soberboots/assets/uploads/2018/01/img_2039.jpg
 categories: ["soberlife"]
 tags: ["12steps", "emotional sobriety", "higher power", "higher purpose", "meaning", "purpose", "sobriety", "spirituality", "step2"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Three Life Changing Words"
 date: 2016-10-11 21:35:19
+image: /soberboots/assets/uploads/2016/03/img_1679.jpg
 categories: ["soberlife"]
 tags: ["connections", "emotional sobriety", "humanity", "recovery", "sobriety", "the promises", "xa"]
 ---

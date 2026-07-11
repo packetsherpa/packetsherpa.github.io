@@ -2,6 +2,7 @@
 layout: post
 title: "Reflections on Counting Days after Four Years of Sobriety"
 date: 2019-09-23 19:53:58
+image: /soberboots/assets/uploads/2019/09/img_1934.jpg
 categories: ["soberlife"]
 tags: ["addiciton", "alcoholism", "healing", "MondayBlogs", "recovery", "sober thoughts", "sobriety"]
 ---

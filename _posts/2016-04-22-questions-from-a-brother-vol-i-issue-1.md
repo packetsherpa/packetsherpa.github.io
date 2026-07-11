@@ -2,6 +2,7 @@
 layout: post
 title: "Questions from a Brother: Vol I, Issue 1"
 date: 2016-04-22 11:31:15
+image: /soberboots/assets/uploads/2016/04/tumblr_m7iggyskac1qcgok6o1_1280.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "college", "delta phi", "fraternity", "fraternity boys", "penn state", "recovery", "sober thoughts", "sobriety"]
 ---

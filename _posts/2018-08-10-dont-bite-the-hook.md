@@ -2,6 +2,7 @@
 layout: post
 title: "Don’t Bite the Hook"
 date: 2018-08-10 08:55:26
+image: /soberboots/assets/uploads/2018/08/img_0953.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "addiction", "Buddhism", "emotional sobriety", "escape", "fatherhood", "feelings", "fishing", "frustrations", "honesty", "recovery", "sobriety", "struggles"]
 ---

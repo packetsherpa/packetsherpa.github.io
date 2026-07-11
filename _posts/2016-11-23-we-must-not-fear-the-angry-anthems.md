@@ -2,6 +2,7 @@
 layout: post
 title: "We Must Not Fear the Angry Anthems"
 date: 2016-11-23 18:15:10
+image: /soberboots/assets/uploads/2016/11/img_3500.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "poems", "poetry", "writing"]
 ---

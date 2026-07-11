@@ -2,6 +2,7 @@
 layout: post
 title: "Family, A Gaming Build, & Last Minute Stocking Stuffers"
 date: 2020-12-24 20:45:41
+image: /soberboots/assets/uploads/2015/12/presents0002-adjusted.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

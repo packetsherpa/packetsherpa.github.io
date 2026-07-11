@@ -2,6 +2,7 @@
 layout: post
 title: "Fighting the Lizard Brain"
 date: 2016-07-30 14:41:19
+image: /soberboots/assets/uploads/2016/07/img_3043.jpg
 categories: ["soberlife"]
 tags: ["beach", "l", "recovery", "sober thoughts", "sobriety", "struggles"]
 ---

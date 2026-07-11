@@ -2,6 +2,7 @@
 layout: post
 title: "Thanksgiving, My Gratitude List"
 date: 2016-11-24 12:23:43
+image: /soberboots/assets/uploads/2016/11/p1010681.jpg
 categories: ["soberlife"]
 tags: ["gratitude", "recovery", "sober life", "sober thoughts", "sobriety", "Thanksgiving"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Joy; Unbridled — Thoughts on My Higher Purpose During the Coronavirus Pandemic"
 date: 2020-10-18 10:45:09
+image: /soberboots/assets/uploads/2020/10/img_0915.jpg
 categories: ["soberlife"]
 tags: ["connections", "covid-19", "emotional sobriety", "fatherhood", "feelings", "freedom", "gratitude", "growth", "higher purpose", "joy", "pandemic", "politics", "purpose", "recovery", "sober thoughts", "sobriety", "storytelling"]
 ---

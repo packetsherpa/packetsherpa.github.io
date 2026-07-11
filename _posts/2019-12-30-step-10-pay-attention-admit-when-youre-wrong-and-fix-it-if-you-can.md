@@ -2,6 +2,7 @@
 layout: post
 title: "Step 10: Pay Attention, Admit When You’re Wrong, And Fix It If You Can"
 date: 2019-12-30 10:22:01
+image: /soberboots/assets/uploads/2019/12/img_0804.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "alcoholics anonymous", "alcoholism", "healing", "MondayBlogs", "recovery", "sober life", "sobriety"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Sunshine, Perspective, & Lasagna"
 date: 2020-12-29 17:38:46
+image: /soberboots/assets/uploads/2020/12/img_1274.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Living in Clear Text"
 date: 2016-08-12 11:28:05
+image: /soberboots/assets/uploads/2016/08/screen-shot-2016-08-12-at-10-07-16-am.png
 categories: ["soberlife"]
 tags: ["alcoholism", "booze", "depression", "honesty", "recovery", "sober thoughts", "sobriety", "struggles", "xa"]
 ---

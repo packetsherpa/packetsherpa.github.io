@@ -2,6 +2,7 @@
 layout: post
 title: "Imposter?  I Don't Think So."
 date: 2018-09-09 11:19:05
+image: /soberboots/assets/uploads/2018/09/img_0938.jpg
 categories: ["soberlife"]
 tags: ["12step", "12steps", "addiciton", "alcoholism", "sober thoughts", "soberiety"]
 ---

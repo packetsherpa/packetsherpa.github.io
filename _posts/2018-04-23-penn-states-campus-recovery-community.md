@@ -2,6 +2,7 @@
 layout: post
 title: "Penn State's Campus Recovery Community"
 date: 2018-04-23 11:09:05
+image: /soberboots/assets/uploads/2018/04/img_0400.jpg
 categories: ["soberlife"]
 tags: ["campus recovery", "delta phi", "dichotomy", "duality", "fears", "fraternity", "fraternity boys", "MondayBlogs", "penn state", "penn state crc", "recovery", "sobriety", "state college", "univeristy park"]
 ---

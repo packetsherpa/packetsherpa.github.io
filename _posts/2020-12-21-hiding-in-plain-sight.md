@@ -2,6 +2,7 @@
 layout: post
 title: "Hiding in Plain Sight"
 date: 2020-12-21 08:00:00
+image: /soberboots/assets/uploads/2017/11/65e12b98-8122-4606-a97e-d5bd484c54b6.jpg
 categories: ["soberlife"]
 tags: ["anxiety", "ate uggles", "emotional sobriety", "fatherhood", "fear", "feelings", "frustrations", "honesty", "recovery", "sobriety"]
 ---

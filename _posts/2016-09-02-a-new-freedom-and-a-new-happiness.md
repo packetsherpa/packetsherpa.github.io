@@ -2,6 +2,7 @@
 layout: post
 title: "A New Freedom and a New Happiness"
 date: 2016-09-02 14:32:51
+image: /soberboots/assets/uploads/2015/12/cropped-img_1634.jpg
 categories: ["soberlife"]
 tags: ["12steps", "alcoholism", "recovery", "sober thoughts", "sobriety", "struggles", "the promises", "xa"]
 ---

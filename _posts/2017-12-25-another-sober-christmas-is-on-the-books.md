@@ -2,6 +2,7 @@
 layout: post
 title: "Another Sober Christmas is on the Books"
 date: 2017-12-25 19:45:22
+image: /soberboots/assets/uploads/2017/12/dsc_0127.jpg
 categories: ["soberlife"]
 tags: ["Christmas", "emotional sobriety", "MondayBlogs", "recovery", "sobriety"]
 ---

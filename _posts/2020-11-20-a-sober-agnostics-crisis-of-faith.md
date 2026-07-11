@@ -2,6 +2,7 @@
 layout: post
 title: "A Sober Agnostic’s Crisis of Faith"
 date: 2020-11-20 12:30:05
+image: /soberboots/assets/uploads/2020/11/img_3024.jpg
 categories: ["soberlife"]
 tags: ["anxiety", "emotional sobriety", "faith", "honesty", "recovery", "sobriety", "spirituality", "struggles"]
 ---

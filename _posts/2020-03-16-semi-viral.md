@@ -2,6 +2,7 @@
 layout: post
 title: "Semi-Viral"
 date: 2020-03-16 07:54:30
+image: /soberboots/assets/uploads/2020/03/img_2418.jpg
 categories: ["soberlife"]
 tags: ["connections", "fatherhood", "gratitude", "growth", "honesty", "hope", "MondayBlogs", "my story", "recovery", "running", "sobriety", "storytelling"]
 ---

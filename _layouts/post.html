@@ -14,6 +14,10 @@ layout: default
     {% endif %}
   </p>
 
+  {% if page.image %}
+  <img class="post-featured" src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}">
+  {% endif %}
+
   <div class="post-body">
     {{ content }}
   </div>

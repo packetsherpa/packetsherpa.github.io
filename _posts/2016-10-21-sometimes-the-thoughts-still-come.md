@@ -2,6 +2,7 @@
 layout: post
 title: "Sometimes the Thoughts Still Come"
 date: 2016-10-21 08:40:59
+image: /soberboots/assets/uploads/2016/10/img_3381.jpg
 categories: ["soberlife"]
 tags: ["recovery", "sober thoughts", "sobriety", "thoughts"]
 ---

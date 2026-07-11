@@ -2,6 +2,7 @@
 layout: post
 title: "An Open Letter to the Guy Behind Me at School Drop-off this Morning"
 date: 2017-03-24 10:15:05
+image: /soberboots/assets/uploads/2017/03/img_3801.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "fatherhood", "feelings", "parenting", "road rage", "sober life", "sobriety", "thoughts"]
 ---

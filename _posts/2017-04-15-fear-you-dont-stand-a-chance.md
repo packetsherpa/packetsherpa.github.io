@@ -2,6 +2,7 @@
 layout: post
 title: "Fear, You Don't Stand A Chance"
 date: 2017-04-15 20:55:37
+image: /soberboots/assets/uploads/2017/04/img_0082.jpg
 categories: ["soberlife"]
 tags: ["anger", "emotional sobriety", "fear", "recovery", "sobriety"]
 ---

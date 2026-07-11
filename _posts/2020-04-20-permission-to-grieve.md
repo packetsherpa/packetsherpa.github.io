@@ -2,6 +2,7 @@
 layout: post
 title: "Permission to Grieve"
 date: 2020-04-20 21:35:06
+image: /soberboots/assets/uploads/2020/04/img_2878.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "booze", "depression", "emotional sobriety", "friends", "grief", "MondayBlogs", "recovery", "running", "self care", "sobriety", "struggles"]
 ---

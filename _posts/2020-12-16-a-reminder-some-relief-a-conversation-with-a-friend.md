@@ -2,6 +2,7 @@
 layout: post
 title: "A Reminder, Some Relief, & a Conversation with a Friend"
 date: 2020-12-16 10:17:51
+image: /soberboots/assets/uploads/2020/12/img_1198.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "emotional sobriety", "gratitude", "recovery", "sobriety", "year of gratitude"]
 ---

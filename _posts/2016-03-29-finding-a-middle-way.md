@@ -2,6 +2,7 @@
 layout: post
 title: "Finding a middle way"
 date: 2016-03-29 11:17:44
+image: /soberboots/assets/uploads/2016/03/img_2133.jpg
 categories: ["soberlife"]
 tags: ["12steps", "Buddhism", "recovery", "sobriety", "xa"]
 ---

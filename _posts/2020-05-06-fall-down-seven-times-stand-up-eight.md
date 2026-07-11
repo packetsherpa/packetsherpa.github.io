@@ -2,6 +2,7 @@
 layout: post
 title: "Fall Down Seven Times, Stand Up Eight"
 date: 2020-05-06 14:50:17
+image: /soberboots/assets/uploads/2020/05/img_0117.jpg
 categories: ["soberlife"]
 tags: ["addiction", "alcoholism", "compassion", "emotional sobriety", "feelings", "guilt", "hope", "recovery", "shame", "sober thoughts", "sobriety", "struggles", "xa"]
 ---

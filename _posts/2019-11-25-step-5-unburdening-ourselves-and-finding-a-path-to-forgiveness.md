@@ -2,6 +2,7 @@
 layout: post
 title: "Step 5: Unburdening Ourselves and Finding a Path To Forgiveness"
 date: 2019-11-25 13:33:17
+image: /soberboots/assets/uploads/2019/11/img_1351.jpg
 categories: ["soberlife", "The 12 Steps"]
 tags: ["12steps", "alcoholics anonymous", "alcoholism", "forgiveness", "growth", "healing", "honesty", "MondayBlogs", "recovery", "sober thoughts", "sobriety", "step5", "steps", "xa"]
 ---

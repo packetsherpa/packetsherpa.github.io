@@ -2,6 +2,7 @@
 layout: post
 title: "Recover Your Joy"
 date: 2020-03-12 20:16:31
+image: /soberboots/assets/uploads/2020/03/img_1385.jpg
 categories: ["soberlife"]
 tags: ["emotional sobriety", "escape", "feelings", "gratitude", "hope", "joy", "recovery", "sober thoughts", "sobriety", "struggles"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Joy, by Accident"
 date: 2017-08-30 16:15:38
+image: /soberboots/assets/uploads/2017/08/img_1396.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "emotional sobriety", "gratitude", "recovery", "sober thoughts", "sobriety", "surrender"]
 ---

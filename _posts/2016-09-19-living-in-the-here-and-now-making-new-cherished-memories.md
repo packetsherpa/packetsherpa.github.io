@@ -2,6 +2,7 @@
 layout: post
 title: "Living in the Here and Now -- Making New Cherished Memories"
 date: 2016-09-19 10:06:48
+image: /soberboots/assets/uploads/2016/09/p1010541.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "being present", "connections", "dad", "fatherhood", "friends", "honesty", "hope", "memories", "recovery", "sober thoughts", "sobriety", "struggles", "tribes"]
 ---

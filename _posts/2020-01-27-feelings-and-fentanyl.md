@@ -2,6 +2,7 @@
 layout: post
 title: "Feelings and Fentanyl"
 date: 2020-01-27 19:04:33
+image: /soberboots/assets/uploads/2020/01/img_2497.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "feelings", "gratitude", "honesty", "MondayBlogs", "recovery", "sobriety", "struggles"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Some Good News, Back to School, & Space Heaters"
 date: 2021-01-05 19:00:00
+image: /soberboots/assets/uploads/2021/01/img_1247.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

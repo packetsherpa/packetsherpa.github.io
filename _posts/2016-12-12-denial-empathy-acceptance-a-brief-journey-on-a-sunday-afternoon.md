@@ -2,6 +2,7 @@
 layout: post
 title: "Denial, Empathy, & Acceptance: A Brief Journey on a Sunday Afternoon"
 date: 2016-12-12 13:56:00
+image: /soberboots/assets/uploads/2015/12/img_1634.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "add/adhd", "denial", "emotional sobriety", "empathy", "expectations", "recovery", "sobriety"]
 ---

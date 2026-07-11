@@ -2,6 +2,7 @@
 layout: post
 title: "Insidious Thoughts"
 date: 2023-07-07 22:08:38
+image: /soberboots/assets/uploads/2018/11/img_0125.jpg
 categories: ["soberlife"]
 tags: ["recovery", "sober thoughts", "sobriety", "struggles"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "The whisper of the skunk"
 date: 2016-06-14 09:25:53
+image: /soberboots/assets/uploads/2016/06/img_1452.jpg
 categories: ["soberlife"]
 tags: ["beauty", "martha's vineyard", "menemsha", "miracles", "recovery", "skunks", "sober thoughts", "sobriety", "xa"]
 ---

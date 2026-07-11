@@ -2,6 +2,7 @@
 layout: post
 title: "Ericka’s Story Part 1:  \"I Remember the Morning\""
 date: 2017-03-12 08:00:46
+image: /soberboots/assets/uploads/2017/03/dsc_0340-e1489247309704.jpg
 categories: ["guest posts", "soberlife"]
 tags: ["alcoholism", "craving", "guest post", "obsession", "powerlessness", "recovery", "sobriety"]
 ---

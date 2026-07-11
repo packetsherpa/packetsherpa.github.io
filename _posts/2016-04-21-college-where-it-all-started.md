@@ -2,6 +2,7 @@
 layout: post
 title: "College: where it all started..."
 date: 2016-04-21 13:57:14
+image: /soberboots/assets/uploads/2016/04/39216_458599919953_7040056_n.jpg
 categories: ["soberlife"]
 tags: ["college", "college life", "delta phi", "fraternity boys", "penn state", "recovery", "sobriety"]
 ---

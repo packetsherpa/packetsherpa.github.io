@@ -2,6 +2,7 @@
 layout: post
 title: "Day-Dates, Reclamation, & Courage and Strength"
 date: 2021-01-18 09:25:51
+image: /soberboots/assets/uploads/2021/01/img_1404.jpg
 categories: ["soberlife"]
 tags: ["connections", "faith", "fear", "God", "God of My Understanding", "gratitude", "hope", "mlk", "MondayBlogs", "nature", "politics", "recovery", "sober thoughts", "sobriety", "storytelling", "surrender"]
 ---

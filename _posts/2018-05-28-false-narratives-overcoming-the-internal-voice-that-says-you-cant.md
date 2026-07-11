@@ -2,6 +2,7 @@
 layout: post
 title: "False Narratives:  Overcoming the Internal Voice that says, “You Can’t”"
 date: 2018-05-28 20:20:59
+image: /soberboots/assets/uploads/2018/05/img_0462.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "emotional sobriety", "faith", "fear", "feelings", "fitness", "friends", "growth", "healing", "MondayBlogs", "recovery", "running", "self care", "sobriety", "struggles"]
 ---

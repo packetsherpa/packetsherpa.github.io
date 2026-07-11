@@ -2,6 +2,7 @@
 layout: post
 title: "A Change is Afoot"
 date: 2017-04-03 09:50:06
+image: /soberboots/assets/uploads/2017/04/img_0029.jpg
 categories: ["soberlife"]
 tags: ["change", "emotional sobriety", "MondayBlogs", "sobriety", "the promises"]
 ---

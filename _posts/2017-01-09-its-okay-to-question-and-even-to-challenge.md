@@ -2,6 +2,7 @@
 layout: post
 title: "It's Okay to Question...and Even to Challenge"
 date: 2017-01-09 11:39:56
+image: /soberboots/assets/uploads/2017/01/img_3498.jpg
 categories: ["soberlife"]
 tags: ["Buddhism", "emotional sobriety", "recovery", "sobriety"]
 ---

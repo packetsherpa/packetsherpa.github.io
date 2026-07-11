@@ -2,6 +2,7 @@
 layout: post
 title: "Thoughts on Understanding vs. Empathy and National Healing"
 date: 2020-11-06 12:19:05
+image: /soberboots/assets/uploads/2020/11/img_1154.jpg
 categories: ["soberlife"]
 tags: ["acceptance", "emotional sobriety", "empathy", "feelings", "healing", "politics", "recovery", "understanding"]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "First Father’s Day Sober"
 date: 2016-06-19 08:27:45
+image: /soberboots/assets/uploads/2016/06/dsc_2093.jpg
 categories: ["soberlife"]
 tags: ["dad", "daily life", "father's day", "fatherhood", "recovery", "sober thoughts", "sobriety"]
 ---

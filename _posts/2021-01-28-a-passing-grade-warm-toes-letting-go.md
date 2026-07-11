@@ -2,6 +2,7 @@
 layout: post
 title: "A Passing Grade, Warm Toes, & Letting Go"
 date: 2021-01-28 19:09:49
+image: /soberboots/assets/uploads/2021/01/img_1455.jpg
 categories: ["soberlife"]
 tags: ["gratitude"]
 ---

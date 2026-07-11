@@ -2,6 +2,7 @@
 layout: post
 title: "A Clean Biopsy, Nachos & a FaceTime Call"
 date: 2021-01-26 21:09:20
+image: /soberboots/assets/uploads/2021/01/img_1446.jpg
 categories: ["soberlife"]
 tags: ["gratitude"]
 ---

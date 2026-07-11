@@ -2,6 +2,7 @@
 layout: post
 title: "Just Like Don"
 date: 2018-04-17 12:23:10
+image: /soberboots/assets/uploads/2018/04/screen-shot-2018-04-17-at-12-20-10-pm.png
 categories: ["my story", "soberlife"]
 tags: ["change", "early sobriety", "fatherhood", "shame", "struggles", "suicide", "survivors", "transformation", "trauma"]
 ---

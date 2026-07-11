@@ -2,6 +2,7 @@
 layout: post
 title: "Gratitudes: 15 November 2020"
 date: 2020-11-15 08:13:08
+image: /soberboots/assets/uploads/2020/11/img_2410.jpg
 categories: ["soberlife"]
 tags: ["daily gratitude", "gratitude", "year of gratitude"]
 ---

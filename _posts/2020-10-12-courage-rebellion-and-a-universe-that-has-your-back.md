@@ -2,6 +2,7 @@
 layout: post
 title: "Courage, Rebellion, and a Universe that has Your Back"
 date: 2020-10-12 13:24:31
+image: /soberboots/assets/uploads/2020/10/img_0848.jpg
 categories: ["soberlife"]
 tags: ["alcoholism", "connections", "courage", "emotional sobriety", "fatherhood", "feelings", "friends", "God of My Understanding", "gratitude", "MondayBlogs", "rebellion", "recovery", "sobriety", "spirituality", "struggles"]
 ---

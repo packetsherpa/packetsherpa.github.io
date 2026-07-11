@@ -2,6 +2,7 @@
 layout: post
 title: "Having Fun in Sin City, in Recovery"
 date: 2020-02-14 09:52:15
+image: /soberboots/assets/uploads/2020/02/img_2631.jpg
 categories: ["soberlife"]
 tags: ["addiction", "alcoholism", "early sobriety", "emotional sobriety", "Las Vegas", "recovery", "self care", "sobriety", "travel"]
 ---

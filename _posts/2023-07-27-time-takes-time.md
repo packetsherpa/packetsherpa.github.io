@@ -2,6 +2,7 @@
 layout: post
 title: "Time Takes Time"
 date: 2023-07-27 11:00:51
+image: /soberboots/assets/uploads/2023/07/img_4448.png
 categories: ["soberlife"]
 tags: ["death", "emotional sobriety", "gratitude", "grief", "grieving", "loss", "recovery", "sober thoughts", "sobriety", "steadylife", "struggles"]
 ---

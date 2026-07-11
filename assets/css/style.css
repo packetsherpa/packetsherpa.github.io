@@ -17,6 +17,7 @@ blockquote { border-left: 3px solid var(--rule); margin: 1.5em 0; padding: 0 1em
 pre { overflow-x: auto; background: #f3efe7; padding: 12px 14px; border-radius: 4px; font-size: 15px; }
 
 .blog-intro { color: var(--muted); font-size: 15px; margin: 0 0 24px; }
+.post-featured { display: block; width: 100%; border-radius: 4px; margin: 0 0 28px; }
 .post-title { font-size: 28px; line-height: 1.2; margin: 0 0 6px; }
 .post-meta { color: var(--muted); font-size: 15px; margin: 0 0 28px; }
 .post-meta a { color: var(--muted); }
