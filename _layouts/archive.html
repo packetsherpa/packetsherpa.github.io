@@ -12,6 +12,9 @@ layout: default
   <ul class="post-list">
     {% for post in page.posts %}
     <li>
+      <a class="thumb-link" href="{{ post.url | relative_url }}">
+        {% if post.image %}<img class="thumb" src="{{ post.image | relative_url }}" alt="" loading="lazy">{% else %}<span class="thumb thumb-empty"></span>{% endif %}
+      </a>
       <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>

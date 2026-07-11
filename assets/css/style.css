@@ -28,7 +28,10 @@ pre { overflow-x: auto; background: #f3efe7; padding: 12px 14px; border-radius: 
   margin-top: 40px; border-top: 1px solid var(--rule); padding-top: 16px; }
 
 .post-list { list-style: none; padding: 0; margin: 0; }
-.post-list li { padding: 7px 0; border-bottom: 1px solid var(--rule); display: flex; gap: 14px; align-items: baseline; }
+.post-list li { padding: 9px 0; border-bottom: 1px solid var(--rule); display: flex; gap: 14px; align-items: center; }
+.thumb-link { flex: 0 0 auto; line-height: 0; }
+.thumb { display: block; width: 56px; height: 56px; object-fit: cover; border-radius: 4px; background: #efe9df; }
+.thumb-empty { display: block; width: 56px; height: 56px; border-radius: 4px; background: #efe9df; }
 .post-date { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; flex: 0 0 92px; }
 
 .term-cloud { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px 10px; }
