@@ -14,7 +14,7 @@ tags: ["friends", "maine", "sobriety", "travel"]
 
 It had been two years since I saw the entire Kalback clan at one time.  We instantly fell into good conversations and the kids started to play as if they'd been playing together every day for the past two years.  We all snuck out on the ice of Salmon Lake for a bit before the light faded and it was an early night for everyone.
 
-A <a href="{{ '/soberboots/2013/10/22/48-hours-in-maine/' | relative_url }}">few years ago</a>, we visited in the fall, and I have very distinct memories of feeling like I couldn't get enough to drink.  There was plenty of beer available, but I could tell that my drinking was different than my friends.  I was not satisfied with a few beers.  Looking back on that, it should have been a stronger warning sign to me than it was, but I didn't heed that warning.
+A few years ago, we visited in the fall, and I have very distinct memories of feeling like I couldn't get enough to drink.  There was plenty of beer available, but I could tell that my drinking was different than my friends.  I was not satisfied with a few beers.  Looking back on that, it should have been a stronger warning sign to me than it was, but I didn't heed that warning.
 
 <img class="size-medium wp-image-6613 alignleft" src="{{ '/soberboots/assets/uploads/2016/02/img_1979.jpg' | relative_url }}" alt="IMG_1979" width="300" height="300" />Saturday, after having breakfast, we headed out in the cold and snow to a place called <a href="http://quarryroad.org/">Quarry Road Trails</a>, where the kids sledded and Mrs. TKD and I went for a snowshoe walk on a trail. As we were walking around I couldn't help but think to myself, this is what its supposed to be like.  This is living.
 

@@ -6,7 +6,7 @@ categories: ["soberlife"]
 tags: ["30SoberDays", "booze", "daily life", "denial", "struggles"]
 ---
 
-<figure><img class="size-medium wp-image-2179" src="{{ '/soberboots/assets/uploads/2013/06/photo-jun-27-11-26-14-am.jpg' | relative_url }}" alt="2 Days and Counting" width="169" height="300" /><figcaption>2 Days and Counting</figcaption></figure>
+<figure class="missing-media"><figcaption>Original image: “2 Days and Counting” (not preserved in the archive).</figcaption></figure>
 
 <em>Update:  This is a post from another blog.  I migrated it to this blog because it's an important part of my story.  This was posted just over three years before I fully surrendered and accepted that I am an alcoholic.</em>
 

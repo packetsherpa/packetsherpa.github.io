@@ -6,7 +6,7 @@ categories: ["soberlife"]
 tags: ["30SoberDays", "booze", "daily life", "denial", "health"]
 ---
 
-<figure><img class="size-medium wp-image-2172" src="{{ '/soberboots/assets/uploads/2013/06/photo-jun-25-7-47-57-am.png' | relative_url }}" alt="Countdown to 30 Days" width="169" height="300" /><figcaption>Countdown to 30 Days</figcaption></figure>
+<figure class="missing-media"><figcaption>Original image: “Countdown to 30 Days” (not preserved in the archive).</figcaption></figure>
 
 <em>Update:  This is a post from another blog.  I migrated it to this blog because it's an important part of my story.  This was posted just over three years before I fully surrendered and accepted that I am an alcoholic.</em>
 
